@@ -12,3 +12,6 @@ __pycache__/
 
 # notebooks checkpoints
 .ipynb_checkpoints/
+
+# database config
+config/database.py
